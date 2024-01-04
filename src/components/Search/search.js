@@ -15,7 +15,7 @@ const Search = () => {
         <div>
             <label>
                 Search:
-                <input type="text" value={searchInput} onChange={handleSearchInputChange} />
+                <input type="text" value={searchInput} onChange={handleSearchInputChange}/>
             </label>
             <br />
             <label>

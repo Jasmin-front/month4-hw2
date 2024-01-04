@@ -1,7 +1,7 @@
 import React from 'react';
 import classes from './list.module.css'
 
-// const List = (props) => {
+
 const List = ({tasks}) => {
     return (
         <div className={classes.result}>
